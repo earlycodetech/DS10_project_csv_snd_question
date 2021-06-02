@@ -1,0 +1,13 @@
+REQUIRES IMDB_movies_ratings_details
+Dataset containing details of top 1000 movies.csv
+
+This is a dataset of  top 1000 movies along with their ratings and other data .
+
+1.	Find the exact number of genre with the highest ratings  
+2.	Plot a graph showing from lowest to highest movies in ascending order with their ratings
+3.	Find the total number movies released from 2008 to 2019
+4.	Create a chart showing the metascore per category
+5.	Show the percentage of games that got a 9+ rating
+6.	Get the percentage of movies released for each of this year(2010 to 2020)
+7.	Outline the 5 top genre that got the highest rating 
+8.     	Plot a graph to show the name of movies name with same runtime
