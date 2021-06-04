@@ -1,0 +1,9 @@
+Required Datasets bestsellerswithcategories.csv
+This dataset is about the top 50 amazon selling books:
+1.Determine the Percentage  of Fiction and Non-fiction books
+2.Carry out a research on how question 1 can be represented with graph and plot it
+3.Plot a graph showing the number of fiction and non-fiction book by year and state the highest and the lowest year
+4.Plot a graph showing the distribution of price by genre
+5.Plot a graph showing the mean price of fiction and non-fiction books by year
+6.List out the 5 most expensive fiction and non-fiction books in dataframe with the following features(Authur,Name and price)
+7. Determine the percentge of User Rating ang Reviews

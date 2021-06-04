@@ -1,0 +1,14 @@
+This dataset contain the house price in Melbourne
+
+1. Perform a good cleaning and manipulation on the dataset
+2. Plot a graph showing the distribution of prices across Melbourne
+3. Plot a graph showing the percentage of rooms
+4.Plot a graph showing the Top 30 suburbs of Melbourne
+5. Plot a graph showing the Distribution of real estate by districts based on the following feautures
+'Lattitude',
+ 'Longtitude', 
+'Regionname', 
+'Propertycount'
+6.Plot the Prices for real estate in areas of Melbourne by months and years for 2016 and 2017
+7. predict the dataset   to check how the independents variable affect the dependent variable
+and the prediction score should be from 0.78 upward
